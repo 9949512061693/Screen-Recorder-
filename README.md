@@ -65,7 +65,7 @@ This project helped reinforce concepts such as:
 
 ## 👨‍💻 Author
 
-**Anand Swaroop**
+**Addanki Adinarayana AnandSwaroop**
 
 ---
 
